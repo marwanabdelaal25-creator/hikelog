@@ -1,0 +1,190 @@
+{
+  "source": "peakbagger",
+  "version": 1,
+  "trails": [
+    {
+      "name": "Trail 0",
+      "terrain": "Coastal",
+      "trailhead": "Campground Loop",
+      "interval_days": 30,
+      "last_visited": "2019-08-04",
+      "notes": "xxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 1",
+      "terrain": "Volcanic",
+      "trailhead": "Visitor Center",
+      "interval_days": 21,
+      "last_visited": "2021-12-11",
+      "notes": "xxxxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 2",
+      "terrain": "Forest",
+      "trailhead": "Visitor Center",
+      "interval_days": 14,
+      "last_visited": "2020-03-19",
+      "notes": "xxxxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 3",
+      "terrain": "Desert",
+      "trailhead": "Visitor Center",
+      "interval_days": 21,
+      "last_visited": "2022-06-18",
+      "notes": "xxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 4",
+      "terrain": "Alpine",
+      "trailhead": "South Gate",
+      "interval_days": 21,
+      "last_visited": "2020-09-05",
+      "notes": "xxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 5",
+      "terrain": "Desert",
+      "trailhead": "South Gate",
+      "interval_days": 30,
+      "last_visited": "2019-09-26",
+      "notes": "xxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 6",
+      "terrain": "Desert",
+      "trailhead": "North Lot",
+      "interval_days": 21,
+      "last_visited": "2021-05-09",
+      "notes": "xxxxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 7",
+      "terrain": "Coastal",
+      "trailhead": "Campground Loop",
+      "interval_days": 7,
+      "last_visited": "2021-12-05",
+      "notes": "xxxxxx"
+    },
+    {
+      "name": "Trail 8",
+      "terrain": "Coastal",
+      "trailhead": "South Gate",
+      "interval_days": 21,
+      "last_visited": "2025-07-07",
+      "notes": "xxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 9",
+      "terrain": "Desert",
+      "trailhead": "South Gate",
+      "interval_days": 30,
+      "last_visited": "2025-08-25",
+      "notes": "xxxxxxxx"
+    },
+    {
+      "name": "Trail 10",
+      "terrain": "Coastal",
+      "trailhead": "South Gate",
+      "interval_days": 21,
+      "last_visited": "2022-06-20",
+      "notes": "xxxxxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 11",
+      "terrain": "Forest",
+      "trailhead": "Visitor Center",
+      "interval_days": 14,
+      "last_visited": "2023-08-24",
+      "notes": ""
+    },
+    {
+      "name": "Trail 12",
+      "terrain": "Alpine",
+      "trailhead": "Campground Loop",
+      "interval_days": 30,
+      "last_visited": "2020-03-19",
+      "notes": "xx"
+    },
+    {
+      "name": "Trail 13",
+      "terrain": "Volcanic",
+      "trailhead": "Campground Loop",
+      "interval_days": 14,
+      "last_visited": "2021-01-09",
+      "notes": "xxxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 14",
+      "terrain": "Desert",
+      "trailhead": "North Lot",
+      "interval_days": 21,
+      "last_visited": "2021-06-17",
+      "notes": "xxxxx"
+    },
+    {
+      "name": "Trail 15",
+      "terrain": "Coastal",
+      "trailhead": "Campground Loop",
+      "interval_days": 14,
+      "last_visited": "2023-11-23",
+      "notes": "xxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 16",
+      "terrain": "Alpine",
+      "trailhead": "South Gate",
+      "interval_days": 14,
+      "last_visited": "2023-05-06",
+      "notes": "xxxxxxxx"
+    },
+    {
+      "name": "Trail 17",
+      "terrain": "Forest",
+      "trailhead": "South Gate",
+      "interval_days": 30,
+      "last_visited": "2020-12-04",
+      "notes": "xxx"
+    },
+    {
+      "name": "Trail 18",
+      "terrain": "Alpine",
+      "trailhead": "South Gate",
+      "interval_days": 14,
+      "last_visited": "2021-02-14",
+      "notes": "xxxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 19",
+      "terrain": "Forest",
+      "trailhead": "North Lot",
+      "interval_days": 14,
+      "last_visited": "2023-07-13",
+      "notes": "xxxxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 20",
+      "terrain": "Volcanic",
+      "trailhead": "Visitor Center",
+      "interval_days": 21,
+      "last_visited": "2021-11-12",
+      "notes": "xxxxxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 21",
+      "terrain": "Coastal",
+      "trailhead": "South Gate",
+      "interval_days": 14,
+      "last_visited": "2025-09-05",
+      "notes": "xxxxxx"
+    },
+    {
+      "name": "Trail 22",
+      "terrain": "Coastal",
+      "trailhead": "South Gate",
+      "interval_days": 21,
+      "last_visited": "2023-04-26",
+      "notes": "xxxxxxxxxxxxxxxxxxxxx"
+    }
+  ]
+}

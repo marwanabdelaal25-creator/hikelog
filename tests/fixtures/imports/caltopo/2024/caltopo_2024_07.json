@@ -1,0 +1,166 @@
+{
+  "source": "caltopo",
+  "version": 1,
+  "trails": [
+    {
+      "name": "Trail 0",
+      "terrain": "Desert",
+      "trailhead": "Visitor Center",
+      "interval_days": 14,
+      "last_visited": "2024-08-14",
+      "notes": "xxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 1",
+      "terrain": "Coastal",
+      "trailhead": "Campground Loop",
+      "interval_days": 30,
+      "last_visited": "2025-01-01",
+      "notes": "xxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 2",
+      "terrain": "Coastal",
+      "trailhead": "Campground Loop",
+      "interval_days": 7,
+      "last_visited": "2024-09-02",
+      "notes": "xxxxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 3",
+      "terrain": "Alpine",
+      "trailhead": "South Gate",
+      "interval_days": 21,
+      "last_visited": "2025-01-05",
+      "notes": "xxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 4",
+      "terrain": "Alpine",
+      "trailhead": "South Gate",
+      "interval_days": 30,
+      "last_visited": "2025-07-25",
+      "notes": "xxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 5",
+      "terrain": "Alpine",
+      "trailhead": "Visitor Center",
+      "interval_days": 30,
+      "last_visited": "2022-11-10",
+      "notes": "xxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 6",
+      "terrain": "Forest",
+      "trailhead": "North Lot",
+      "interval_days": 14,
+      "last_visited": "2019-04-20",
+      "notes": "xxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 7",
+      "terrain": "Desert",
+      "trailhead": "Campground Loop",
+      "interval_days": 7,
+      "last_visited": "2024-11-16",
+      "notes": "xxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 8",
+      "terrain": "Desert",
+      "trailhead": "South Gate",
+      "interval_days": 7,
+      "last_visited": "2022-01-09",
+      "notes": "xxxxxx"
+    },
+    {
+      "name": "Trail 9",
+      "terrain": "Volcanic",
+      "trailhead": "South Gate",
+      "interval_days": 21,
+      "last_visited": "2020-07-08",
+      "notes": "xxxxxx"
+    },
+    {
+      "name": "Trail 10",
+      "terrain": "Desert",
+      "trailhead": "Campground Loop",
+      "interval_days": 14,
+      "last_visited": "2021-05-12",
+      "notes": "xxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 11",
+      "terrain": "Forest",
+      "trailhead": "Campground Loop",
+      "interval_days": 21,
+      "last_visited": "2021-03-13",
+      "notes": "xxxxxxxx"
+    },
+    {
+      "name": "Trail 12",
+      "terrain": "Coastal",
+      "trailhead": "Campground Loop",
+      "interval_days": 21,
+      "last_visited": "2024-09-12",
+      "notes": "xxxxxxxxxx"
+    },
+    {
+      "name": "Trail 13",
+      "terrain": "Alpine",
+      "trailhead": "South Gate",
+      "interval_days": 21,
+      "last_visited": "2020-05-28",
+      "notes": ""
+    },
+    {
+      "name": "Trail 14",
+      "terrain": "Desert",
+      "trailhead": "North Lot",
+      "interval_days": 21,
+      "last_visited": "2024-07-09",
+      "notes": "xxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 15",
+      "terrain": "Forest",
+      "trailhead": "Visitor Center",
+      "interval_days": 21,
+      "last_visited": "2022-02-17",
+      "notes": "xxxxx"
+    },
+    {
+      "name": "Trail 16",
+      "terrain": "Desert",
+      "trailhead": "South Gate",
+      "interval_days": 21,
+      "last_visited": "2019-11-17",
+      "notes": "xxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 17",
+      "terrain": "Volcanic",
+      "trailhead": "North Lot",
+      "interval_days": 7,
+      "last_visited": "2021-02-01",
+      "notes": "xxxxxxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "name": "Trail 18",
+      "terrain": "Coastal",
+      "trailhead": "Visitor Center",
+      "interval_days": 30,
+      "last_visited": "2023-05-02",
+      "notes": "x"
+    },
+    {
+      "name": "Trail 19",
+      "terrain": "Desert",
+      "trailhead": "South Gate",
+      "interval_days": 21,
+      "last_visited": "2023-05-11",
+      "notes": "xxxx"
+    }
+  ]
+}

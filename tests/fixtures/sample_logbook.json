@@ -1,0 +1,687 @@
+{
+  "version": 3,
+  "label": "sample",
+  "persona": "minimalist",
+  "generated": false,
+  "trails": [
+    {
+      "id": "tr-2022-000000",
+      "name": "Windy Old Growth #0",
+      "terrain_key": "desert-canyon",
+      "trailhead_id": "th-visitor-center",
+      "visit_interval_days": 60,
+      "last_visited": "2022-04-12",
+      "first_hiked": "2022-02-01",
+      "status": "favorite",
+      "pack_liters": 55,
+      "notes": "",
+      "tag_ids": [
+        "tag-55",
+        "tag-5",
+        "tag-4",
+        "tag-12"
+      ]
+    },
+    {
+      "id": "tr-2024-000001",
+      "name": "Rocky Old Growth #1",
+      "terrain_key": "redwood-grove",
+      "trailhead_id": "th-summit-parking",
+      "visit_interval_days": 45,
+      "last_visited": "2024-04-23",
+      "first_hiked": "2024-04-17",
+      "status": "planned",
+      "pack_liters": 40,
+      "notes": "ZaWZkSBvrjnWvgfygwwMqZcUDIhyfJsONxKmT cQoXsfogyrDOxkxwnQrSRPeM",
+      "tag_ids": [
+        "tag-69"
+      ]
+    },
+    {
+      "id": "tr-2022-000002",
+      "name": "Steep Redwood Grove #2",
+      "terrain_key": "old-growth",
+      "trailhead_id": "th-visitor-center",
+      "visit_interval_days": 30,
+      "last_visited": "2022-05-24",
+      "first_hiked": "2022-04-06",
+      "status": "done",
+      "pack_liters": 18,
+      "notes": "",
+      "tag_ids": []
+    },
+    {
+      "id": "tr-2023-000003",
+      "name": "Rocky Meadow Walk #3",
+      "terrain_key": "old-growth",
+      "trailhead_id": "th-visitor-center",
+      "visit_interval_days": 7,
+      "last_visited": "2023-07-15",
+      "first_hiked": "2023-07-09",
+      "status": "seasonal",
+      "pack_liters": 40,
+      "notes": "jqipVJIqVLBLzxoiGFfWdhjOkYRBMeyyMDHqJaRUhRIWrXPvh BkDaUUqGWlGgOtOGMmjxWkIXHaMuFbhxZtpdpK",
+      "tag_ids": []
+    },
+    {
+      "id": "tr-2024-000004",
+      "name": "Long Desert Canyon #4",
+      "terrain_key": "desert-canyon",
+      "trailhead_id": "th-visitor-center",
+      "visit_interval_days": 7,
+      "last_visited": "2025-01-02",
+      "first_hiked": "2024-12-16",
+      "status": "seasonal",
+      "pack_liters": 55,
+      "notes": "",
+      "tag_ids": [
+        "tag-68",
+        "tag-78"
+      ]
+    },
+    {
+      "id": "tr-2023-000005",
+      "name": "Windy Volcanic Loop #5",
+      "terrain_key": "cascade-falls",
+      "trailhead_id": "th-visitor-center",
+      "visit_interval_days": 60,
+      "last_visited": "2023-10-11",
+      "first_hiked": "2023-04-18",
+      "status": "done",
+      "pack_liters": 40,
+      "notes": "hpoevbLJoLoaeTOdoecveGprQFnIiUKKEpYEZAmggQBwBADU RPPgdzUvZgpmmICiBlrDpeC",
+      "tag_ids": [
+        "tag-13",
+        "tag-7",
+        "tag-70",
+        "tag-2"
+      ]
+    },
+    {
+      "id": "tr-2024-000006",
+      "name": "Shady Old Growth #6",
+      "terrain_key": "cascade-falls",
+      "trailhead_id": "th-valley-gate",
+      "visit_interval_days": 30,
+      "last_visited": "2024-06-07",
+      "first_hiked": "2024-04-06",
+      "status": "planned",
+      "pack_liters": 40,
+      "notes": "",
+      "tag_ids": [
+        "tag-34",
+        "tag-59",
+        "tag-37"
+      ]
+    },
+    {
+      "id": "tr-2023-000007",
+      "name": "Windy Old Growth #7",
+      "terrain_key": "volcanic-loop",
+      "trailhead_id": "th-ridge-lot",
+      "visit_interval_days": 45,
+      "last_visited": "2024-04-26",
+      "first_hiked": "2023-12-24",
+      "status": "favorite",
+      "pack_liters": 55,
+      "notes": "dVuddLEGHkdGfleMeRpzhKpLMcNfAQLKHuqnQTupqziQPtDuWeaDNK eInGqiwepxskCITtNZPHaQ JtQ",
+      "tag_ids": []
+    },
+    {
+      "id": "tr-2024-000008",
+      "name": "Windy Volcanic Loop #8",
+      "terrain_key": "volcanic-loop",
+      "trailhead_id": "th-campground",
+      "visit_interval_days": 7,
+      "last_visited": "2024-05-21",
+      "first_hiked": "2024-05-04",
+      "status": "planned",
+      "pack_liters": 32,
+      "notes": "",
+      "tag_ids": [
+        "tag-65",
+        "tag-63"
+      ]
+    },
+    {
+      "id": "tr-2023-000009",
+      "name": "Long Volcanic Loop #9",
+      "terrain_key": "alpine-ridge",
+      "trailhead_id": "th-valley-gate",
+      "visit_interval_days": 60,
+      "last_visited": "2023-04-21",
+      "first_hiked": "2023-01-03",
+      "status": "done",
+      "pack_liters": 24,
+      "notes": "kVCJTBJaheSjIcxLJjBictxYcwnRpQgwXJAN jpkZZlAblVvYAZQVZprkYSgycEom Dwt YoobQmzvreXrwPGzRIvbhqlLqcgMBwUYuB",
+      "tag_ids": [
+        "tag-66",
+        "tag-15",
+        "tag-50",
+        "tag-74"
+      ]
+    },
+    {
+      "id": "tr-2024-000010",
+      "name": "Misty Redwood Grove #10",
+      "terrain_key": "redwood-grove",
+      "trailhead_id": "th-visitor-center",
+      "visit_interval_days": 60,
+      "last_visited": "2024-08-21",
+      "first_hiked": "2024-05-02",
+      "status": "planned",
+      "pack_liters": 32,
+      "notes": "QvNuQhUtGtQAuzSsJimAQyRV",
+      "tag_ids": [
+        "tag-79"
+      ]
+    },
+    {
+      "id": "tr-2022-000011",
+      "name": "Steep Volcanic Loop #11",
+      "terrain_key": "old-growth",
+      "trailhead_id": "th-summit-parking",
+      "visit_interval_days": 45,
+      "last_visited": "2022-05-13",
+      "first_hiked": "2022-05-13",
+      "status": "done",
+      "pack_liters": 40,
+      "notes": "RnGEYYVkQfsGQONvf WpRtoZmjbcpENXeDAOKmTSyFzpjPSa",
+      "tag_ids": []
+    },
+    {
+      "id": "tr-2023-000012",
+      "name": "Shady Alpine Ridge #12",
+      "terrain_key": "redwood-grove",
+      "trailhead_id": "th-ridge-lot",
+      "visit_interval_days": 60,
+      "last_visited": "2023-08-16",
+      "first_hiked": "2023-04-06",
+      "status": "favorite",
+      "pack_liters": 40,
+      "notes": "",
+      "tag_ids": [
+        "tag-68",
+        "tag-72",
+        "tag-77"
+      ]
+    },
+    {
+      "id": "tr-2023-000013",
+      "name": "Shady Redwood Grove #13",
+      "terrain_key": "granite-domes",
+      "trailhead_id": "th-ridge-lot",
+      "visit_interval_days": 60,
+      "last_visited": "2023-12-27",
+      "first_hiked": "2023-08-20",
+      "status": "seasonal",
+      "pack_liters": 40,
+      "notes": "pOrXXHFOprCeTsprvuIfijoySjTneAAvIDAdnAyXLSbWKyEawtWyAIVVIZMoForBFbyv",
+      "tag_ids": [
+        "tag-22",
+        "tag-60",
+        "tag-17"
+      ]
+    }
+  ],
+  "terrain": [
+    {
+      "key": "alpine-ridge",
+      "display_name": "Alpine Ridge"
+    },
+    {
+      "key": "coastal-bluff",
+      "display_name": "Coastal Bluff"
+    },
+    {
+      "key": "desert-canyon",
+      "display_name": "Desert Canyon"
+    },
+    {
+      "key": "old-growth",
+      "display_name": "Old Growth"
+    },
+    {
+      "key": "volcanic-loop",
+      "display_name": "Volcanic Loop"
+    },
+    {
+      "key": "meadow-walk",
+      "display_name": "Meadow Walk"
+    },
+    {
+      "key": "cascade-falls",
+      "display_name": "Cascade Falls"
+    },
+    {
+      "key": "granite-domes",
+      "display_name": "Granite Domes"
+    },
+    {
+      "key": "redwood-grove",
+      "display_name": "Redwood Grove"
+    },
+    {
+      "key": "basalt-plateau",
+      "display_name": "Basalt Plateau"
+    }
+  ],
+  "trailheads": [
+    {
+      "id": "th-valley-gate",
+      "name": "Valley Gate",
+      "zone": "valley-gate"
+    },
+    {
+      "id": "th-ridge-lot",
+      "name": "Ridge Lot",
+      "zone": "ridge-lot"
+    },
+    {
+      "id": "th-creek-crossing",
+      "name": "Creek Crossing",
+      "zone": "creek-crossing"
+    },
+    {
+      "id": "th-summit-parking",
+      "name": "Summit Parking",
+      "zone": "summit-parking"
+    },
+    {
+      "id": "th-campground",
+      "name": "Campground",
+      "zone": "campground"
+    },
+    {
+      "id": "th-visitor-center",
+      "name": "Visitor Center",
+      "zone": "visitor-center"
+    }
+  ],
+  "visit_events": [
+    {
+      "id": "vi-0000000",
+      "trail_id": "tr-2024-000008",
+      "visited_at": "2024-05-18",
+      "distance_km": 16.56,
+      "elevation_gain_m": 760,
+      "pace": "easy",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000001",
+      "trail_id": "tr-2024-000001",
+      "visited_at": "2024-02-01",
+      "distance_km": 9.14,
+      "elevation_gain_m": 520,
+      "pace": "moderate",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000002",
+      "trail_id": "tr-2022-000000",
+      "visited_at": "2022-03-10",
+      "distance_km": 8.38,
+      "elevation_gain_m": 240,
+      "pace": "scramble",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000003",
+      "trail_id": "tr-2023-000005",
+      "visited_at": "2023-08-29",
+      "distance_km": 14.3,
+      "elevation_gain_m": 520,
+      "pace": "hard",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000004",
+      "trail_id": "tr-2023-000012",
+      "visited_at": "2023-05-02",
+      "distance_km": 9.03,
+      "elevation_gain_m": 120,
+      "pace": "scramble",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000005",
+      "trail_id": "tr-2022-000000",
+      "visited_at": "2022-01-07",
+      "distance_km": 10.86,
+      "elevation_gain_m": 380,
+      "pace": "moderate",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000006",
+      "trail_id": "tr-2024-000010",
+      "visited_at": "2024-08-13",
+      "distance_km": 14.61,
+      "elevation_gain_m": 980,
+      "pace": "easy",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000007",
+      "trail_id": "tr-2023-000012",
+      "visited_at": "2023-08-13",
+      "distance_km": 17.22,
+      "elevation_gain_m": 240,
+      "pace": "easy",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000008",
+      "trail_id": "tr-2023-000009",
+      "visited_at": "2023-04-02",
+      "distance_km": 6.2,
+      "elevation_gain_m": 520,
+      "pace": "easy",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000009",
+      "trail_id": "tr-2023-000009",
+      "visited_at": "2023-03-25",
+      "distance_km": 9.71,
+      "elevation_gain_m": 380,
+      "pace": "hard",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000010",
+      "trail_id": "tr-2022-000002",
+      "visited_at": "2022-03-08",
+      "distance_km": 11.91,
+      "elevation_gain_m": 980,
+      "pace": "easy",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000011",
+      "trail_id": "tr-2023-000012",
+      "visited_at": "2023-05-04",
+      "distance_km": 5.04,
+      "elevation_gain_m": 380,
+      "pace": "easy",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000012",
+      "trail_id": "tr-2023-000009",
+      "visited_at": "2023-04-18",
+      "distance_km": 16.9,
+      "elevation_gain_m": 760,
+      "pace": "scramble",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000013",
+      "trail_id": "tr-2024-000006",
+      "visited_at": "2024-02-08",
+      "distance_km": 13.58,
+      "elevation_gain_m": 120,
+      "pace": "moderate",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000014",
+      "trail_id": "tr-2024-000001",
+      "visited_at": "2024-01-25",
+      "distance_km": 14.47,
+      "elevation_gain_m": 980,
+      "pace": "easy",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000015",
+      "trail_id": "tr-2023-000012",
+      "visited_at": "2023-06-05",
+      "distance_km": 14.63,
+      "elevation_gain_m": 380,
+      "pace": "scramble",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000016",
+      "trail_id": "tr-2024-000010",
+      "visited_at": "2024-07-05",
+      "distance_km": 3.57,
+      "elevation_gain_m": 980,
+      "pace": "hard",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000017",
+      "trail_id": "tr-2022-000000",
+      "visited_at": "2021-12-25",
+      "distance_km": 9.01,
+      "elevation_gain_m": 520,
+      "pace": "easy",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000018",
+      "trail_id": "tr-2024-000006",
+      "visited_at": "2024-04-22",
+      "distance_km": 12.35,
+      "elevation_gain_m": 520,
+      "pace": "moderate",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000019",
+      "trail_id": "tr-2024-000006",
+      "visited_at": "2024-05-16",
+      "distance_km": 13.87,
+      "elevation_gain_m": 980,
+      "pace": "hard",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000020",
+      "trail_id": "tr-2023-000009",
+      "visited_at": "2023-01-08",
+      "distance_km": 16.75,
+      "elevation_gain_m": 520,
+      "pace": "scramble",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000021",
+      "trail_id": "tr-2024-000006",
+      "visited_at": "2024-02-23",
+      "distance_km": 13.83,
+      "elevation_gain_m": 380,
+      "pace": "hard",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000022",
+      "trail_id": "tr-2023-000013",
+      "visited_at": "2023-11-26",
+      "distance_km": 15.38,
+      "elevation_gain_m": 120,
+      "pace": "hard",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000023",
+      "trail_id": "tr-2023-000007",
+      "visited_at": "2024-03-26",
+      "distance_km": 14.13,
+      "elevation_gain_m": 760,
+      "pace": "scramble",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000024",
+      "trail_id": "tr-2023-000005",
+      "visited_at": "2023-10-08",
+      "distance_km": 10.16,
+      "elevation_gain_m": 380,
+      "pace": "moderate",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000025",
+      "trail_id": "tr-2023-000007",
+      "visited_at": "2024-03-30",
+      "distance_km": 8.0,
+      "elevation_gain_m": 380,
+      "pace": "hard",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000026",
+      "trail_id": "tr-2024-000004",
+      "visited_at": "2024-09-12",
+      "distance_km": 11.74,
+      "elevation_gain_m": 380,
+      "pace": "easy",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000027",
+      "trail_id": "tr-2024-000008",
+      "visited_at": "2024-04-27",
+      "distance_km": 3.83,
+      "elevation_gain_m": 980,
+      "pace": "scramble",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000028",
+      "trail_id": "tr-2023-000007",
+      "visited_at": "2024-02-15",
+      "distance_km": 14.25,
+      "elevation_gain_m": 980,
+      "pace": "scramble",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000029",
+      "trail_id": "tr-2024-000010",
+      "visited_at": "2024-05-22",
+      "distance_km": 10.11,
+      "elevation_gain_m": 120,
+      "pace": "easy",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000030",
+      "trail_id": "tr-2024-000004",
+      "visited_at": "2024-12-05",
+      "distance_km": 8.77,
+      "elevation_gain_m": 240,
+      "pace": "hard",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000031",
+      "trail_id": "tr-2024-000010",
+      "visited_at": "2024-06-08",
+      "distance_km": 8.22,
+      "elevation_gain_m": 760,
+      "pace": "hard",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000032",
+      "trail_id": "tr-2024-000006",
+      "visited_at": "2024-03-04",
+      "distance_km": 11.03,
+      "elevation_gain_m": 380,
+      "pace": "scramble",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000033",
+      "trail_id": "tr-2024-000004",
+      "visited_at": "2024-11-24",
+      "distance_km": 6.4,
+      "elevation_gain_m": 120,
+      "pace": "moderate",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000034",
+      "trail_id": "tr-2023-000005",
+      "visited_at": "2023-09-26",
+      "distance_km": 14.01,
+      "elevation_gain_m": 980,
+      "pace": "moderate",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000035",
+      "trail_id": "tr-2023-000003",
+      "visited_at": "2023-06-18",
+      "distance_km": 13.95,
+      "elevation_gain_m": 380,
+      "pace": "hard",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000036",
+      "trail_id": "tr-2024-000001",
+      "visited_at": "2024-01-08",
+      "distance_km": 5.51,
+      "elevation_gain_m": 240,
+      "pace": "hard",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000037",
+      "trail_id": "tr-2022-000002",
+      "visited_at": "2022-04-16",
+      "distance_km": 2.72,
+      "elevation_gain_m": 760,
+      "pace": "moderate",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000038",
+      "trail_id": "tr-2024-000004",
+      "visited_at": "2024-12-28",
+      "distance_km": 17.6,
+      "elevation_gain_m": 760,
+      "pace": "hard",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000039",
+      "trail_id": "tr-2022-000011",
+      "visited_at": "2022-01-13",
+      "distance_km": 4.46,
+      "elevation_gain_m": 520,
+      "pace": "easy",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000040",
+      "trail_id": "tr-2023-000013",
+      "visited_at": "2023-12-26",
+      "distance_km": 11.4,
+      "elevation_gain_m": 520,
+      "pace": "scramble",
+      "notes": ""
+    },
+    {
+      "id": "vi-0000041",
+      "trail_id": "tr-2023-000007",
+      "visited_at": "2024-03-14",
+      "distance_km": 5.36,
+      "elevation_gain_m": 120,
+      "pace": "hard",
+      "notes": ""
+    }
+  ],
+  "trip_logs": [],
+  "tags": [],
+  "notes": [],
+  "audit": [],
+  "plugins": {},
+  "recurring": []
+}

@@ -1,0 +1,27 @@
+segment,region,route,trail_name,terrain,distance_km,notes
+Seg-1,Visitor Center,Route-1,Trail 0,Alpine,14.0,xxxxxxxxxxxxx
+Seg-2,Campground Loop,Route-2,Trail 1,Coastal,4.7,xxxxxxxxxxxxxxxxxx
+Seg-3,South Gate,Route-3,Trail 2,Coastal,15.4,xxxxxxx
+Seg-4,South Gate,Route-4,Trail 3,Coastal,6.1,xxxxxxxxxxxxxxxxxxxx
+Seg-5,Visitor Center,Route-5,Trail 4,Desert,6.1,xx
+Seg-1,Campground Loop,Route-6,Trail 5,Desert,11.1,xxxxxxxxxx
+Seg-2,North Lot,Route-7,Trail 6,Volcanic,13.3,xxxxxxxxxxxxxxxxxxxxxxxx
+Seg-3,North Lot,Route-8,Trail 7,Desert,7.2,xxxxxxxxxxxxxxxxxx
+Seg-4,South Gate,Route-1,Trail 8,Alpine,5.9,xxxxxxxxxxxx
+Seg-5,Visitor Center,Route-2,Trail 9,Coastal,9.0,xxxxxxxxxxxxxxxxxxxx
+Seg-1,Visitor Center,Route-3,Trail 10,Forest,10.4,
+Seg-2,Visitor Center,Route-4,Trail 11,Volcanic,8.9,xxxxxxxxxxxxxxx
+Seg-3,South Gate,Route-5,Trail 12,Volcanic,9.2,xxxxxxxxxxxxxxxxxxx
+Seg-4,Visitor Center,Route-6,Trail 13,Alpine,6.4,xxxxxxxxxxxx
+Seg-5,North Lot,Route-7,Trail 14,Coastal,4.4,xxxxxxx
+Seg-1,North Lot,Route-8,Trail 15,Desert,15.5,xxxxxxxxxxxxxxxx
+Seg-2,South Gate,Route-1,Trail 16,Desert,7.7,xxxx
+Seg-3,Visitor Center,Route-2,Trail 17,Volcanic,9.8,xxxx
+Seg-4,South Gate,Route-3,Trail 18,Coastal,5.4,xxxxxxxxxxxxxxxxxxxxxx
+Seg-5,Visitor Center,Route-4,Trail 19,Coastal,11.8,xxxxx
+Seg-1,North Lot,Route-5,Trail 20,Coastal,14.8,xxxxxxxxxxxxx
+Seg-2,Campground Loop,Route-6,Trail 21,Desert,5.1,xxxxxxx
+Seg-3,North Lot,Route-7,Trail 22,Alpine,15.5,xxxxxxxxx
+Seg-4,Visitor Center,Route-8,Trail 23,Desert,15.0,xxxxxxxxxxxxxxxxxxxxxx
+Seg-5,Visitor Center,Route-1,Trail 24,Coastal,12.3,x
+Seg-1,South Gate,Route-2,Trail 25,Volcanic,7.9,xxxxxxxxxxxxxx

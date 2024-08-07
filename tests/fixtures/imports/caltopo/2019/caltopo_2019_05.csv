@@ -1,0 +1,20 @@
+name,terrain_key,trailhead,visit_interval_days,last_visited,notes
+Trail 0,volcanic,Visitor Center,14,2019-04-01,xxxxx
+Trail 1,desert,South Gate,14,2023-03-07,xxxxxxxxxxxxxxxxxxxx
+Trail 2,coastal,Campground Loop,21,2021-06-26,xxxx
+Trail 3,alpine,Campground Loop,30,2024-08-07,xxxxxxxxxxxxxxxxxxxxxxxx
+Trail 4,desert,North Lot,30,2021-06-16,xxxxxxx
+Trail 5,coastal,Campground Loop,30,2023-05-10,xxx
+Trail 6,desert,North Lot,14,2019-05-19,xxxxxxxxxxxxxx
+Trail 7,forest,Visitor Center,14,2021-12-03,x
+Trail 8,volcanic,North Lot,14,2022-05-13,xx
+Trail 9,volcanic,South Gate,30,2022-02-25,xxxxxxxxxxxxxxxxxxxxxxx
+Trail 10,volcanic,North Lot,30,2020-12-09,xxxxxxxxxxxxx
+Trail 11,forest,North Lot,30,2023-06-03,xxxxxxxxx
+Trail 12,coastal,North Lot,30,2025-06-02,xxxxxxxxxxxxxxxxxx
+Trail 13,desert,Visitor Center,21,2020-12-11,xxxxxxxxxxxx
+Trail 14,coastal,South Gate,7,2021-06-22,xxxxxxxxxxxxxx
+Trail 15,forest,North Lot,14,2022-12-08,xxxxxxxxxxxxxxxxxx
+Trail 16,volcanic,North Lot,30,2021-05-25,xxxx
+Trail 17,volcanic,Campground Loop,21,2019-01-20,xxx
+Trail 18,desert,Campground Loop,21,2021-08-05,xxxxxxxxx
