@@ -47,3 +47,4 @@ religiously but I tag releases when something actually ships.
 ## [0.1.0] - 2024-07-30
 
 - Skeleton repo, README, first Trail dataclass
+- v0.3.0
