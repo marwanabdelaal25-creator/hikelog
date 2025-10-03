@@ -48,3 +48,4 @@ religiously but I tag releases when something actually ships.
 
 - Skeleton repo, README, first Trail dataclass
 - v0.3.0
+- v0.8.0
