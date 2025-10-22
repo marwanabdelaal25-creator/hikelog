@@ -50,3 +50,4 @@ religiously but I tag releases when something actually ships.
 - v0.3.0
 - v0.8.0
 - v1.0.0
+- v1.2.0
