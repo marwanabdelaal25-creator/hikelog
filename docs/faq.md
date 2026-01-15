@@ -118,3 +118,4 @@ Public API surface is in `hikelog.__init__` — trails, visit, schedules, parser
 validators, errors.
 - faq 0
 - faq 1
+- faq 2
