@@ -117,3 +117,4 @@ trail = storage.create_trail(Trail.create("New Friend", visit_interval_days=7))
 Public API surface is in `hikelog.__init__` — trails, visit, schedules, parsers,
 validators, errors.
 - faq 0
+- faq 1
