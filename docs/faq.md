@@ -122,3 +122,4 @@ validators, errors.
 - faq 3
 - faq 4
 - faq 5
+- faq 6
